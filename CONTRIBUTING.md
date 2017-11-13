@@ -16,7 +16,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use the following format:
 ```md
-### [Extension name](github link)`
+### [Extension name](api docs link)`
 <short description what the extension provides to other extensions>.
 
 #### Supports
