@@ -4,9 +4,9 @@
 
 ## Contents
  - [Applications](#applications)
-  - [Streamlink Helper](#streamlink-helper)
+   - [Streamlink Helper](#streamlink-helper)
  - [Features](#features)
-  - [Notification Sound](#notification-sound)
+   - [Notification Sound](#notification-sound)
 
 ## Applications
 
