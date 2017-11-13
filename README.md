@@ -14,7 +14,7 @@
 
 ## Applications
 
-### [Streamlink Helper](https://github.com/plneappl/streamlink-helper)
+### [Streamlink Helper](https://github.com/plneappl/streamlink-helper#invoking-streamlink-from-another-extension)
 Lets other extensions launch Streamlink via its integration.
 
 #### Supports
@@ -22,7 +22,7 @@ Lets other extensions launch Streamlink via its integration.
  
 ## Features
  
-### [Notification Sound](https://github.com/freaktechnik/notification-sounds)
+### [Notification Sound](https://github.com/freaktechnik/notification-sounds#extension-integration)
 Plays a user defined notification sound when extensions inform it that they're showing a notification.
 
 #### Supports
