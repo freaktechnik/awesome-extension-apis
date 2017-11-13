@@ -3,9 +3,9 @@
 > Awesome cross-extension APIs that enable browser extensions to integrate with each other.
 
 ## Contents
- - [Applications](#applications)
+- [Applications](#applications)
    - [Streamlink Helper](#streamlink-helper)
- - [Features](#features)
+- [Features](#features)
    - [Notification Sound](#notification-sound)
 
 ## Applications
@@ -14,7 +14,7 @@
 Lets other extensions launch Streamlink via its integration.
 
 #### Supports
- - [Firefox](https://addons.mozilla.org/firefox/addon/streamlink_helper/)
+- [Firefox](https://addons.mozilla.org/firefox/addon/streamlink_helper/)
  
 ## Features
  
@@ -22,4 +22,4 @@ Lets other extensions launch Streamlink via its integration.
 Plays a user defined notification sound when extensions inform it that they're showing a notification.
 
 #### Supports
- - [Firefox](https://addons.mozilla.org/firefox/addon/notification-sound/?src=github)
+- [Firefox](https://addons.mozilla.org/firefox/addon/notification-sound/?src=github)
