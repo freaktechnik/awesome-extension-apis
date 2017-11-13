@@ -3,10 +3,14 @@
 > Awesome cross-extension APIs that enable browser extensions to integrate with each other.
 
 ## Contents
+- [Resources](#resources)
 - [Applications](#applications)
   - [Streamlink Helper](#streamlink-helper)
 - [Features](#features)
   - [Notification Sound](#notification-sound)
+  
+## Resources
+- [Overview of why and how extensions can integrate](https://humanoids.be/log/2017/11/browser-extensions-work-together/)
 
 ## Applications
 
