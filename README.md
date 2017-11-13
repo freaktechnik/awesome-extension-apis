@@ -19,7 +19,7 @@ Lets other extensions launch Streamlink via its integration.
 ## Features
  
 ### [Notification Sound](https://github.com/freaktechnik/notification-sounds)
-Plays a user defined sound when extensions inform it that they're showing a notification.
+Plays a user defined notification sound when extensions inform it that they're showing a notification.
 
 #### Supports
  - [Firefox](https://addons.mozilla.org/firefox/addon/notification-sound/?src=github)
