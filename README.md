@@ -3,8 +3,10 @@
 > Awesome cross-extension APIs that enable extensions to integrate with each other.
 
 ## Contents
- - Applications
- - Features
+ - [Applications](#applications)
+  - [Streamlink Helper](#streamlink-helper)
+ - [Features](#features)
+  - [Notification Sound](#notification-sound)
 
 ## Applications
 
