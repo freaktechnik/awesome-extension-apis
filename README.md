@@ -1,6 +1,6 @@
-# Awesome Extension APIs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Browser Extension APIs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome cross-extension APIs that enable extensions to integrate with each other.
+> Awesome cross-extension APIs that enable browser extensions to integrate with each other.
 
 ## Contents
  - [Applications](#applications)
