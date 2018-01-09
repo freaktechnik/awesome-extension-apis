@@ -8,6 +8,7 @@
   - [Streamlink Helper](#streamlink-helper)
 - [Features](#features)
   - [Notification Sound](#notification-sound)
+  - [Wikipedia Peek](#wikipedia-peek)
   
 ## Resources
 - [Overview of why and how extensions can integrate](https://humanoids.be/log/2017/11/browser-extensions-work-together/)
@@ -24,6 +25,9 @@ Lets other extensions launch Streamlink via its integration.
  
 ### [Notification Sound](https://github.com/freaktechnik/notification-sounds#extension-integration)
 Plays a user defined notification sound when extensions inform it that they're showing a notification.
+
+### [Wikipedia Peek](https://github.com/NiklasGollenstede/wikipedia-peek/blob/master/plugin/index.js)
+Shows a link preview on hower. Other extensions can register plugins based on the given template to provide preview information.
 
 #### Supports
 - [Firefox](https://addons.mozilla.org/firefox/addon/notification-sound/?src=github)
