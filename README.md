@@ -8,6 +8,7 @@
   - [Streamlink Helper](#streamlink-helper)
 - [Features](#features)
   - [Notification Sound](#notification-sound)
+  - [Multi-Account Containers](#multi-account-containers)
   - [Wikipedia Peek](#wikipedia-peek)
   
 ## Resources
@@ -28,6 +29,12 @@ Plays a user defined notification sound when extensions inform it that they're s
 
 #### Supports
 - [Firefox](https://addons.mozilla.org/firefox/addon/notification-sound/?src=github)
+
+### [Multi-Account Containers](https://github.com/mozilla/multi-account-containers/wiki/API)
+Get information about assigned default containers for URLs.
+
+#### Supports
+- [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/)
 
 ### [Wikipedia Peek](https://github.com/NiklasGollenstede/wikipedia-peek/blob/master/plugin/index.js)
 Shows a link preview on hower. Other extensions can register plugins based on the given template to provide preview information.
