@@ -41,7 +41,7 @@ Get information about assigned default containers for URLs.
 Open an URL in a temporary container and check if a container belongs to the extension.
 
 #### Supports
- - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
 
 ### [Wikipedia Peek](https://github.com/NiklasGollenstede/wikipedia-peek/blob/master/plugin/index.js)
 Shows a link preview on hower. Other extensions can register plugins based on the given template to provide preview information.
