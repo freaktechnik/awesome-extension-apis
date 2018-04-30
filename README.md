@@ -9,6 +9,7 @@
 - [Features](#features)
   - [Notification Sound](#notification-sound)
   - [Multi-Account Containers](#multi-account-containers)
+  - [Temporary Containers](#temporary-containers)
   - [Wikipedia Peek](#wikipedia-peek)
   
 ## Resources
@@ -35,6 +36,12 @@ Get information about assigned default containers for URLs.
 
 #### Supports
 - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/)
+
+### [Temporary Containers](https://github.com/stoically/temporary-containers/wiki/API)
+Open an URL in a temporary container and check if a container belongs to the extension.
+
+#### Supports
+ - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
 
 ### [Wikipedia Peek](https://github.com/NiklasGollenstede/wikipedia-peek/blob/master/plugin/index.js)
 Shows a link preview on hower. Other extensions can register plugins based on the given template to provide preview information.
