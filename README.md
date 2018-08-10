@@ -10,6 +10,7 @@
   - [Notification Sound](#notification-sound)
   - [Multi-Account Containers](#multi-account-containers)
   - [Temporary Containers](#temporary-containers)
+  - [Tree Style Tab](#tree-style-tab)
   - [Wikipedia Peek](#wikipedia-peek)
   
 ## Resources
@@ -21,7 +22,7 @@
 Lets other extensions launch Streamlink via its integration.
 
 #### Supports
-- [Firefox](https://addons.mozilla.org/firefox/addon/streamlink_helper/)
+- [Firefox](https://addons.mozilla.org/firefox/addon/streamlink_helper/?src=external-awesome-apis)
  
 ## Features
  
@@ -29,24 +30,30 @@ Lets other extensions launch Streamlink via its integration.
 Plays a user defined notification sound when extensions inform it that they're showing a notification.
 
 #### Supports
-- [Firefox](https://addons.mozilla.org/firefox/addon/notification-sound/?src=github)
+- [Firefox](https://addons.mozilla.org/firefox/addon/notification-sound/?src=external-awesome-apis)
 
 ### [Multi-Account Containers](https://github.com/mozilla/multi-account-containers/wiki/API)
 Get information about assigned default containers for URLs.
 
 #### Supports
-- [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/)
+- [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/?src=external-awesome-apis)
 
 ### [Temporary Containers](https://github.com/stoically/temporary-containers/wiki/API)
 Open an URL in a temporary container and check if a container belongs to the extension.
 
 #### Supports
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/?src=external-awesome-apis)
+
+### [Tree Style Tab](https://github.com/piroor/treestyletab/wiki/API-for-other-addons)
+Vertical tab bar with tree grouping for tabs. Extensions can expand exposed features and modify tab states, order and hierarchy.
+
+#### Supports
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/?src=external-awesome-apis)
 
 ### [Wikipedia Peek](https://github.com/NiklasGollenstede/wikipedia-peek/blob/master/plugin/index.js)
 Shows a link preview on hower. Other extensions can register plugins based on the given template to provide preview information.
 
 #### Supports
-- [Firefox](https://addons.mozilla.org/firefox/addon/wikipedia-peek/?src=github)
+- [Firefox](https://addons.mozilla.org/firefox/addon/wikipedia-peek/?src=external-awesome-apis)
 - [Chrome](https://chrome.google.com/webstore/detail/wikipedia-peek/planddpadjimakmjdpnolpjjphhooiej)
 - [Opera](https://addons.opera.com/en/extensions/details/wikipedia-peek/)
