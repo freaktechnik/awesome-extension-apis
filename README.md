@@ -51,7 +51,7 @@ Vertical tab bar with tree grouping for tabs. Extensions can expand exposed feat
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/?src=external-awesome-apis)
 
 ### [Wikipedia Peek](https://github.com/NiklasGollenstede/wikipedia-peek/blob/master/plugin/index.js)
-Shows a link preview on hower. Other extensions can register plugins based on the given template to provide preview information.
+Shows a link preview on hover. Other extensions can register plugins based on the given template to provide preview information.
 
 #### Supports
 - [Firefox](https://addons.mozilla.org/firefox/addon/wikipedia-peek/?src=external-awesome-apis)
