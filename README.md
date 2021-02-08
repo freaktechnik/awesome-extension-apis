@@ -57,9 +57,3 @@ Shows a link preview on hover. Other extensions can register plugins based on th
 - [Firefox](https://addons.mozilla.org/addon/wikipedia-peek/?src=external-awesome-apis)
 - [Chrome](https://chrome.google.com/webstore/detail/wikipedia-peek/planddpadjimakmjdpnolpjjphhooiej)
 - [Opera](https://addons.opera.com/en/extensions/details/wikipedia-peek/)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, Martin Giger has waived all copyright and related or neighboring rights to this work.
